@@ -7,7 +7,7 @@ Retail businesses often rely on aggressive discounting and high sales volumes to
 ## Overview :-
 
 This analysis examines retail store performance across multiple regions, focusing on profitability, discount strategies, product mix, and operational efficiency. Key findings are visualized through an interactive dashboard, with selected charts and screenshots included throughout the report for clarity.
-Full interactive dashboard can be accessed here : ()
+Full interactive dashboard can be accessed here : (https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/retail_graph.pbix)
 
 ## Objective & scope :-
 
@@ -79,7 +79,7 @@ The interactive dashboard allows filtering by region, segment, category, and shi
 Department-specific insights can be explored through slicers and KPI cards.
 Screenshots included here provide examples of key charts and metrics.
 
-Full dashboard download or access link: ()
+Full dashboard download or access link: (https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/retail_graph.pbix)
 
 ## Notes
 
