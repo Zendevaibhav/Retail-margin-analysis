@@ -1,4 +1,4 @@
-# Retail Store Performance & Discount Impact Analysis. 
+# The Discount–Profit Paradox in Retail Analytics. 
 
 ## Project Background.
 
