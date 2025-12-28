@@ -22,7 +22,7 @@ The analysis aims to identify key drivers of profitability, assess the impact of
 
 Visual reference: Overview page from the interactive dashboard.
 <p align="center">
-<img src="https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/raw/main/retail-analysis_graph.png" width="800">
+<img src="https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/raw/main/retail-analysis_graph.png" width="600">
 </p>
 
 ## Department-Wise Insights & Recommendations :-
@@ -45,7 +45,7 @@ Implement discount approval thresholds and monitor high-discount transactions to
 
 Visual reference: Discount bins vs Profit Margin with 0% reference line.
 <p align="center">
-<img src="https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/raw/main/margin-line_graph.png" width="800">
+<img src="https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/raw/main/margin-line_graph.png" width="600">
 </p>
 
 ### 3] Operations / Supply Chain
@@ -58,7 +58,7 @@ Conduct state-level operational reviews and adjust shipping costs or policies in
 
 Visual reference: Region × Ship Mode margin comparison.
 <p align="center">
-<img src="https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/raw/main/region-graph.png" width="800">
+<img src="https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/raw/main/region-graph.png" width="600">
 </p>
 
 ### 4] Sales / Category Management
@@ -70,7 +70,7 @@ Prioritize high-margin products in promotions and adjust sales strategies to imp
 
 Visual reference: Top 10 Sub-Categories by Sales vs Profit.
 <p align="center">
-<img src="https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/raw/main/sub-category_graph.png" width="800">
+<img src="https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/raw/main/sub-category_graph.png" width="600">
 </p>
 
 ## Key Takeaways
