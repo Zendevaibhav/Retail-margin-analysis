@@ -75,16 +75,16 @@ Visual reference: Top 10 Sub-Categories by Sales vs Profit.
 
 ## Key Takeaways
 
-- Discount strategies have a greater impact on profitability than raw sales growth.
-
-- Operational inefficiencies are often localized, and targeted interventions can improve margins.
-
-- Portfolio and regional focus can improve profitability without increasing overall sales.
-
-- Recommendations are tailored for each department to support data-driven decision-making.
+- **The Profitability Threshold:** Discount strategies have a greater impact on profitability than raw sales growth; margins decline sharply once discounts exceed **20–25%**.
+  
+- **Localized Operational Efficiency:** Inefficiencies are often regional; targeted interventions in specific areas (like the **South region’s shipping**) can recover losses more effectively than broad, company-wide changes.
+  
+- **Quality of Revenue:** Prioritizing high-margin products and profitable regions allows the business to increase net profit without needing to increase overall sales volume.
+  
+- **Data-Driven Governance:** Recommendations are tailored for each department to move the organization from reactive reporting to proactive, strategic decision-making.
 
 ## Dashboard Access
-The interactive dashboard allows filtering by region, segment, category, and shipping mode.
+The interactive dashboard allows filtering by region, segment and shipping mode.
 Department-specific insights can be explored through slicers and KPI cards.
 Screenshots included here provide examples of key charts and metrics.
 
